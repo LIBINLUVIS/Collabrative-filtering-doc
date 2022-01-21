@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/user-based-collaborative-filtering/
+https://medium.com/sfu-cspmp/recommendation-systems-user-based-collaborative-filtering-using-n-nearest-neighbors-bf7361dc24e0
+https://www.analyticsvidhya.com/blog/2021/06/build-book-recommendation-system-unsupervised-learning-project/#:~:text=A%20book%20recommendation%20system%20is,library%2C%20good%20Read's%2C%20etc.
